@@ -12072,6 +12072,9 @@
             },
             "P": {
               "color": "#232323"
+            },
+            ".mbr-text": {
+              "text-align": "left"
             }
           },
           "_name": "features11",
